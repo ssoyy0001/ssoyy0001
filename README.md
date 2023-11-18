@@ -1,7 +1,8 @@
+![result](https://github.com/ssoyy0001/ssoyy0001/assets/119846677/51eb4d21-ab5b-4c87-b958-b287c83805df)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a8e1d0,100:d1e6e0&height=180&animation=fadeIn&fontColor=2a745e&fontSize=50" />
     </div>
-    ![result](https://github.com/ssoyy0001/ssoyy0001/assets/119846677/51eb4d21-ab5b-4c87-b958-b287c83805df)
+    
     <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
