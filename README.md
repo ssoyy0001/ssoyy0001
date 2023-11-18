@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a8e1d0,100:d1e6e0&height=180&animation=fadeIn&fontColor=2a745e&fontSize=50" />
     </div>
     <div style="text-align: center;"> 
-    ![readmeName](https://github.com/ssoyy0001/ssoyy0001/assets/119846677/a19e2f15-fc42-4435-9002-9e3714628277)
+    ![result](https://github.com/ssoyy0001/ssoyy0001/assets/119846677/51eb4d21-ab5b-4c87-b958-b287c83805df)
     </div>
     <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
