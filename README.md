@@ -2,10 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=0:a8e1d0,100:d1e6e0&height=180&animation=fadeIn&fontColor=2a745e&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖐 Hello Ssoyy world </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 배움을 실현하는 개발자</li><li> 성실히 고민하는 개발자 </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖐 Hi, there! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+    </div> 
     </div>
-    <div style="text-align: left;">
+    <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
