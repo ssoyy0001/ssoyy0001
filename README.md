@@ -17,7 +17,7 @@
 </div>
 <br><br>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">How to reach me</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💫How to reach me💫</h2>
     <div style="text-align: left;"><li>e-mail : ssoyy0001@gmail.com</li></div>
     <br> 
 </div>
